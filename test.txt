@@ -1,1 +1,0 @@
-This is temp file for git operation practics. you can delete the file.
